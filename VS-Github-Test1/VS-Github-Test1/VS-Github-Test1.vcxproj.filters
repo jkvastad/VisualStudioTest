@@ -18,5 +18,16 @@
     <ClCompile Include="HelloGit.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="HelloTools.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="HelloTools.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HelloGit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

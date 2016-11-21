@@ -1,6 +1,7 @@
-#include <iostream>
+#include "HelloGit.h"
+
 
 int main() {
-	std::cout << "Hello Git!" << std::endl;
+	helloGit();
 	return 0;
 }
