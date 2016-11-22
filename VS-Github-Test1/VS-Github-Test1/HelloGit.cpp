@@ -1,8 +1,6 @@
-#include <iostream>
+#include "HelloGit.h"
 
 int main() {
-	std::cout << "Hello and Welcome to Git and GitHub!" << std::endl;
-	std::cout << "Here, have an extra line of text!" << std::endl;
-	std::cout << "Indeed, why not take two?" << std::endl;
+	helloGit();
 	return 0;
 }
